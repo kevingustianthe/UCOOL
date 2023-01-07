@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">UCOOL</string>
+    <string name="ucolo">uCoLo</string>
+    <string name="login">Login</string>
+    <string name="nim">NIM</string>
+    <string name="password">Password</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_day_fragment">My Day Fragment</string>
+    <string name="important_fragment">Important Fragment</string>
+    <string name="task_fragment">Task Fragment</string>
+    <string name="search">Search</string>
+    <string name="logout">Logout</string>
+    <string name="come_back_soon">Come Back Soon !</string>
+    <string name="are_you_sure_you_want_to_log_out">Are you sure you want to Log out?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="save">Save</string>
+    <string name="name" />
+    <string name="add_new_list">Add New List</string>
+    <string name="add">Add</string>
+    <string name="task">Task</string>
+    <string name="submit">Submit</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="waktu">Waktu</string>
+    <string name="manage_account">Manage Account</string>
+    <string name="log_out">Log Out</string>
+    <string name="play">Play</string>
+    <string name="edit">Edit</string>
+    <string name="date">Date</string>
+    <string name="sisa_waktu">Sisa waktu</string>
+
+    <string-array name="profile_dropdown_array">
+        <item>Manage Account</item>
+        <item>Log Out</item>
+    </string-array>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+</resources>
